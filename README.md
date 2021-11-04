@@ -1,8 +1,8 @@
 # AsyncApps
  
-SIMPLE FORM - FORM APPS https://github.com/hyanuun/FormApps
+SIMPLE FORM - FORM APPS : https://github.com/hyanuun/FormApps
 
-ANDROID INTENT https://github.com/hyanuun/FormApp_AndroidIntent
+ANDROID INTENT - FORM APP : https://github.com/hyanuun/FormApp_AndroidIntent
 
 Nama : Aini Nur Khasanah
 
